@@ -36,4 +36,4 @@ Note: the procedure is a bit different for cases which are multiome, and the one
 4. ```4.ITH_programs``` -- Analysis of Intra-Tumor Heterogeneity programs (also, called as MPs, Meta Programs).
 
 
-## These analyses were not included in the final set of analyses.
+## These analyses were not included in the final version of the manuscript.
